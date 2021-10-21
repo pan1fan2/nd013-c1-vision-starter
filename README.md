@@ -126,6 +126,8 @@ python inference_video.py -labelmap_path label_map.pbtxt --model_path training/e
 ### Project overview
 This section should contain a brief description of the project and what we are trying to achieve. Why is object detection such an important component of self driving car systems?
 
+The project is trying to detect objects such as cars, pedestrians and cyclists. The repository contains related codes to achieve this goal.  The detection of the objects will help the autonomous vehicle to better locate itself in the environment.
+
 ### Set up
 This section should contain a brief description of the steps to follow to run the code for this repository.
 
